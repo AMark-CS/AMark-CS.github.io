@@ -1,0 +1,20 @@
+{
+  "name": "AMark-CS.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.17",
+    "@vuepress/client": "2.0.0-rc.17",
+    "@vuepress/theme-default": "2.0.0-rc.52",
+    "vue": "^3.5.11",
+    "vuepress": "2.0.0-rc.17"
+  }
+}
