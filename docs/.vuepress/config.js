@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
  
 export default defineUserConfig({
-    base:'/hamark-cs.github.io/',
+    base:'/amark-cs.github.io/',
     bundler: viteBundler(),
     theme: defaultTheme({
         // 在这里进行配置
