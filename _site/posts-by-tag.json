@@ -155,6 +155,16 @@
     
       
   {
+  "tag" : "resume",
+  "posts" : [
+      
+      "./My-first-blog.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "thoughts",
   "posts" : [
       

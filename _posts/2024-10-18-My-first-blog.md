@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "My first blog"
-date: 2021-04-20
+date: 2024-10-18
 img: posts/20241018/test.jpg
 tags: [resume]
 category: opinion
