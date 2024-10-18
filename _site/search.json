@@ -1,6 +1,16 @@
 [
   
     {
+      "title"       : "My first blog",
+      "category"    : "opinion",
+      "tags"        : "resume",
+      "url"         : "./My-first-blog.html",
+      "date"        : "2024-10-18 00:00:00 +0800",
+      "description" : "This is my first blog in whole time!",
+      "content"     : "Currently I am very satisfied with my life.I have things that I like to do and I’ve also accomplished many things.Also, I know exactly what to do in the future to reach my final goal! It is as if the road were right before my eyes and I can see it clearly."
+    } ,
+  
+    {
       "title"       : "Who owns the copyright for an AI generated creative work?",
       "category"    : "opinion",
       "tags"        : "copyright, creativity, neural networks, machine learning, artificial intelligence",
