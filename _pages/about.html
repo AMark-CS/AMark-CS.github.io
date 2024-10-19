@@ -29,12 +29,12 @@ permalink: about:output_ext
       {% if site.email %}
         <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% endif %}
-      {% if site.bandcamp %}
-        <li class="bandcamp"><a class="bandcamp" href="https://{{site.bandcamp}}.bandcamp.com" target="_blank"><i class="fa fa-bandcamp" aria-hidden="true"></i></a></li>
-      {% endif %}
       {% if site.stackoverflow %}
       <li class="stackoverflow"><a class="stackoverflow" href="https://stackoverflow.com/users/{{site.stackoverflow}}" target="_blank">
         <i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.csdn %}
+        <li class="csdn"><a class="csdn" href="https://blog.csdn.net/{{site.csdn}}" target="_blank"><i class="fa fa-codepen" aria-hidden="true"></i></a></li>
       {% endif %}
       </ul>
     </section> <!-- End About Body-->

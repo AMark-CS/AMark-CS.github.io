@@ -26,7 +26,9 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Mark Zhang # add your name
 author-pic: Myself.jpg
-about-author: Currently a student at North China Electric Power Univercity, majoring in Intelligent Science and Technology. I am passionate about Artificial Intelligence and Machine Learning. # add a short bio
+about-author: Currently a student at North China Electric Power Univercity, majoring in Intelligent Science and Technology. I am passionate about Artificial Intelligence and Machine Learning. # add a short bio张禾川
+
+
 
 # Contact links
 email: hhhzhchhh939@gmail.com # Add your Email address
@@ -34,9 +36,8 @@ phone: # Add your Phone number
 website: https://amark-cs.github.io # Add your website
 linkedin: mark-zhang-78920431b # Add your Linkedin handle
 github: amark-cs # Add your Github handle
-twitter: '@MarkZhang615127' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+csdn: weixin_73074012
+stackoverflow: 27368510/mark-zhang # Add your stackoverflow account
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
