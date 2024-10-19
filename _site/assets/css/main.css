@@ -1972,11 +1972,10 @@ a.read-more:hover {
 .reddit:hover{color:#ff4500}
 .linkedin:hover{color:#0072b1}
 .email:hover{color:#66ab6b}
-.csdn:hover{color:#d7000f}
-.stackoverflow:hover{color:#f48024}
+.csdn:hover{color:#ea5b0f}
+.stackoverflow:hover{color:#ffc595d6}
 .github:hover{color:var(--github)}
 .copy-link:hover{color:var(--accent)}
-
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
