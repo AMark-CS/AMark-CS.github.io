@@ -15,6 +15,8 @@ permalink: about:output_ext
       <h3>{{site.author}}</h3>
       <p class="subtitle">{{site.about-author}}</p>
     </section>
+    {% capture resume_content %}{% include resume.md %}{% endcapture %}
+      {{ resume_content | markdownify }}
     <section class="about-body">
       <ul class="contact-list">
       {% if site.twitter %}
