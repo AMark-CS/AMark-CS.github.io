@@ -22,7 +22,7 @@
     - Natural Language Processing
     - Computer Vision
   - **Personal Project Repository**: [AMark (Mark--Zhang) - Gitee.com](https://gitee.com/Mark--Zhang)
-  - **Personal Technical Blog**: [Mark_Zhang-CSDN Blog](https://blog.csdn.net/Mark_Zhang)
+  - **Personal Technical Blog**: [Mark_Zhang-CSDN Blog](https://blog.csdn.net/weixin_73074012?type=blog)
 
 ### Internship Experience
 #### FanRuan Software | Wuxi, China
@@ -36,13 +36,13 @@
 
 ### Project Experience
 #### Ubuntu Drone px4 Simulation | Beijing, China
-- **Lab Project**: [Px4 Environment Setup and Gazebo Simulation Testing (Ubuntu 20.04)](https://blog.csdn.net/Mark_Zhang/article/details/123456789) (April 2023 - October 2023)
+- **Lab Project**: [Px4 Environment Setup and Gazebo Simulation Testing (Ubuntu 20.04)](https://blog.csdn.net/weixin_73074012/article/details/131604943?spm=1001.2014.3001.5501) (April 2023 - October 2023)
   - Implemented drone control and communication with the ground station QGC through ROS in an Ubuntu virtual machine.
   - Conducted simulation experiments with drones equipped with the px4 open-source flight control system in Gazebo.
   - Applied the simulation environment to real drones for initial flight testing.
 
 #### Raspberry Pi with OpenCV for Image Recognition | Beijing, China
-- **Competition Project**: [Mastering Raspberry Pi Series](https://blog.csdn.net/Mark_Zhang/article/details/123456789) (April 2023 - May 2023)
+- **Competition Project**: [Mastering Raspberry Pi Series](https://blog.csdn.net/weixin_73074012/article/details/130231004?spm=1001.2014.3001.5501) (April 2023 - May 2023)
   - Completed system flashing, network configuration, and user setup on Raspberry Pi using an SD card.
   - Established remote development on Raspberry Pi via SSH connection in Visual Studio Code.
   - Installed and configured the Raspberry Pi camera and utilized the OpenCV library to implement facial recognition.
