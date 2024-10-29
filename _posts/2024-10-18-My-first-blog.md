@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "My first blog"
 date: 2024-10-18
-img: posts/20241018/test.jpg
+img: posts/20241018/competition.jpg
 tags: [resume]
 category: opinion
 author: Mark Zhang
