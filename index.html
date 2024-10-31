@@ -23,3 +23,34 @@ layout: home-page
   </li>
   {% endfor %}
 </ol>
+
+<!-- 字体样式 -->
+<style>
+    .centered-text {
+        display: flex;
+        justify-content: space-between;
+        font-family: 'Lobster', cursive; /* 如果需要艺术字体，可以添加 */
+        font-size: 24px; /* 根据需要调整字体大小 */
+        margin-top: 20px; /* 根据需要调整上边距 */
+    }
+    .centered-text div {
+        flex: 1;
+        text-align: center;
+    }
+</style>
+
+<!-- 统计网页访问次数 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="centered-text">
+    <div>
+        <span id="busuanzi_container_site_pv">    
+            Total Visit times: <span id="busuanzi_value_site_pv"></span>
+        </span>
+    </div>
+    <div>
+        <span id="busuanzi_container_site_uv">
+            Total Visitors: <span id="busuanzi_value_site_uv"></span>
+        </span>
+    </div>
+</div>
